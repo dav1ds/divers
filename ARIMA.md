@@ -1,5 +1,7 @@
 #Serie temporelle#
 
+Source : https://datascientest.com/arima-series-temporelles
+
 Modele ARIMA (serie stationnaire) ou SARIMA ( serie temporelle avec saisonalité) 
 
 Le processus AR signifie autorégressif :
@@ -8,7 +10,7 @@ Concrètement, si l’on considère un processus stationnaire Xt,
 on considère qu’il est autorégressif d’ordre p si l’on peut expliquer sa valeur à l’instant T en utilisant ses p termes précédents.
 
 Mathématiquement, cela signifie que :
-https://datascientest.com/arima-series-temporelles
+
 
 avec ε l’erreur et (𝛼1, …,𝛼p)  des réels  
 
