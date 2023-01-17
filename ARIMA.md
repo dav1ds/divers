@@ -48,3 +48,5 @@ il est possible d’utiliser le modèle SARIMA qui est un modèle ARIMA prenant 
 En utilisant la fonction SARIMAX de la bibliothèque statsmodels, il est possible de prédire la série temporelle sur les 15 prochains mois. On choisit de prendre un processus AR d’ordre 1, un processus MA d’ordre 1, une différenciation d’ordre 1 et une saisonnalité sur 12 mois.
 
 Par ailleurs, le modèle permet de calculer un intervalle de confiance de 95% de la prédiction affiché ici en gris
+
+
